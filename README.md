@@ -17,7 +17,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="10" />
@@ -31,14 +31,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carolrossi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
 </div>
-
----
-
-### 🐍 Contribuições com estilo
-
-<p align="center">
-  <img src="https://github.com/carolrossi/carolrossi/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 ---
 
