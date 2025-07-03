@@ -40,8 +40,6 @@
 
   <!-- GIF do gatinho 8-bit animado -->
   <p align="center">
-    <img src="https://media.giphy.com/media/VEp7lXThA9QvZv0gPb/giphy.gif" width="250" />
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=280&lines=GAME+CAT+ACTIVATED!;PRESS+START+TO+PET" alt="Typing SVG" />
+  ![Black Cat](https://i.imgur.com/rY9EJOQ.png)
   </p>
 </div>
