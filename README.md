@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou a Carol! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F58EA5&center=true&vCenter=true&width=435&lines=Desenvolvedora+Web+apaixonada+por+tecnologia!;Sempre+aprendendo+algo+novo+💡;Bem-vindo(a)+ao+meu+perfil!+😊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F58EA5&center=true&vCenter=true&width=435&lines=Desenvolvedora+Web+💡;Bem-vindo(a)+ao+meu+perfil!+😊" alt="Typing SVG" />
 </p>
 
 ---
