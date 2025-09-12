@@ -29,7 +29,7 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolrossi
-    /carolrossi/output/github-contribution-grid-snake-light.svg">
+    /carolrossi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolrossi/carolrossi/output/github-contribution-grid-snake-light.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carolrossi/carolrossi/output/github-contribution-grid-snake.svg">
 </picture>
