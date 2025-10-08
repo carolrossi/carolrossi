@@ -7,8 +7,13 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b5/dc/76/b5dc7620d2e185d2211f667ec510831b.gif" alt="gif animado" />
+  <img
+    src="https://i.pinimg.com/originals/b5/dc/76/b5dc7620d2e185d2211f667ec510831b.gif"
+    alt="gif animado"
+    width="300"
+  />
 </div>
+
 
 ---
 
