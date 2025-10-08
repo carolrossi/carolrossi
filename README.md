@@ -24,8 +24,8 @@
 
 ---
 
-## tech stack
 
+### tech stack
 <div align="center">
 
 **Languages**  
@@ -38,10 +38,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Shadcn](https://img.shields.io/badge/-Shadcn-000?style=for-the-badge&logo=shadcn)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-
 </div>
 
 <picture>
